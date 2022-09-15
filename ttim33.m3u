@@ -1,1 +1,19 @@
-
+#EXTM3U
+#EXTINF:-1 tvg-id="CHANNEL 7-name="CHANNEL - 7" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/81851_ch7 card design.jpg" group-title="CHANNEL 7HD",CHANNEL 7
+https://foreveralive1-a.akamaihd.net/db889d68019848c5b303610afdae3190/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
+#EXTINF:-1 tvg-id="Animal Planet-name="Animal Planet" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/42527_animal planet.jpg" group-title="Animal PlanetHD",Animal Planet
+https://livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="Flik HD-name="Flik HD" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/26160_Flik HD.jpg" group-title="Flik HD",Flik HD
+http://hpull.kktv8.com:80/livekktv/128600025/playlist.m3u8
+#EXTINF:-1 tvg-id="Myanmar Music-name="Myanmar Music" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/26796_mm music channel.jpg" group-title="Myanmar Music",Myanmar Music
+https://l1-xl1.myanmarnet.com/relay/music/ch1/stream_hi/index.m3u8
+#EXTINF:-1 tvg-id="BBC Earth-name="BBC Earth" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/44887_bbc earth channel.jpg" group-title="BBC Earth",BBC Earth
+http://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="Love Nature-name="Love Nature" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/76341_Love Nature channel.jpg" group-title="Love Nature",Love Nature
+http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 tvg-id="K POP Music-name="K POP Music" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/70435_kpop channel.jpg" group-title="K POP Music",K POP Music
+https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
+#EXTINF:-1 tvg-id="Baby TV-name="Baby TV" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/35336_baby tv channel.jpg" group-title="Baby TV",Baby TV
+https://vips-livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="Asian Food Network-name="Asian Food Network" tvg-logo="http://thutalive.webstarterz.com/thutalive/images/channel/25016_afn channel.jpg" group-title="Asian Food Network",Asian Food Network
+https://vips-livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8
